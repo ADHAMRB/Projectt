@@ -14,7 +14,7 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
 
-        <Grid Background="Gray" Grid.Row="0">
+        <Grid Background="Black" Grid.Row="0">
             <ComboBox x:Name="lol" Height="40" Width="200" Margin="33,10,567,10"/>
             <TextBox x:Name="searchbox" Height="40" Width="300" Margin="250,10,250,10"/>
             <Button x:Name="SIGNUP" Height="40" Width="200" Content="Search" FontSize="25" FontWeight="Bold" HorizontalAlignment="Left" Foreground="White" Background="Black" Margin="575,5,0,5"/>
